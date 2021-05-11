@@ -6,5 +6,5 @@
 ## 作品集
 
 #### 内部运营平台_商业地产租赁
-img src="/zhengjianzhao.jpg" width="100%"
+img src="/1.整车质保金方案.png" width="100%"
 #### 供应链管理平台_车辆制造厂
